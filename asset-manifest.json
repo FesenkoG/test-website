@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/FesenkoG/test-website.git/static/css/main.f3b77f15.css",
-    "main.js": "/FesenkoG/test-website.git/static/js/main.342106d7.js",
-    "index.html": "/FesenkoG/test-website.git/index.html",
-    "main.f3b77f15.css.map": "/FesenkoG/test-website.git/static/css/main.f3b77f15.css.map",
-    "main.342106d7.js.map": "/FesenkoG/test-website.git/static/js/main.342106d7.js.map"
+    "main.css": "/test-website.git/static/css/main.f3b77f15.css",
+    "main.js": "/test-website.git/static/js/main.342106d7.js",
+    "index.html": "/test-website.git/index.html",
+    "main.f3b77f15.css.map": "/test-website.git/static/css/main.f3b77f15.css.map",
+    "main.342106d7.js.map": "/test-website.git/static/js/main.342106d7.js.map"
   },
   "entrypoints": [
     "static/css/main.f3b77f15.css",
