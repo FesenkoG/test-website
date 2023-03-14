@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git@github.com:FesenkoG/test-website.git/static/css/main.f3b77f15.css",
+    "main.js": "/git@github.com:FesenkoG/test-website.git/static/js/main.b560ba6f.js",
+    "index.html": "/git@github.com:FesenkoG/test-website.git/index.html",
+    "main.f3b77f15.css.map": "/git@github.com:FesenkoG/test-website.git/static/css/main.f3b77f15.css.map",
+    "main.b560ba6f.js.map": "/git@github.com:FesenkoG/test-website.git/static/js/main.b560ba6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b77f15.css",
+    "static/js/main.b560ba6f.js"
+  ]
+}
